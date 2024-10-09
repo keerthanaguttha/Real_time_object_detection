@@ -93,6 +93,8 @@ cv2.destroyAllWindows()
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/9a5bc9b4-f261-4ef4-a20c-f71159c755ff)
+
 
 ## Result:
 The real-time object detection system using Python and YOLOv4 successfully detected and classified objects from live video feed with accurate bounding boxes and labels in real time.
